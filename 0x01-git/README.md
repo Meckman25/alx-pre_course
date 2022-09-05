@@ -1,1 +1,1 @@
-Meckman is good
+Meckman is a good software engineer.
